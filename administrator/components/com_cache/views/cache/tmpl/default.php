@@ -40,7 +40,7 @@ $listDirn	= $this->escape($this->state->get('list.direction'));
 		<!-- End Sidebar -->
 		<!-- Begin Content -->
 		<div class="span10">
-			<table class="table table-striped">
+			<table class="table table-bordered">
 				<thead>
 					<tr>
 						<th class="title" width="10">

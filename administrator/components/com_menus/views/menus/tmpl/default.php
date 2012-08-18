@@ -53,7 +53,7 @@ $modMenuId = (int) $this->get('ModMenuId');
 		<!-- End Sidebar -->
 		<!-- Begin Content -->
 		<div class="span10">
-			<table class="table table-striped">
+			<table class="table table-bordered">
 				<thead>
 					<tr>
 						<th width="1%">

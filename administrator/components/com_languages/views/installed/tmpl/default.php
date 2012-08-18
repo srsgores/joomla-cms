@@ -44,7 +44,7 @@ $clientId	= $this->state->get('filter.client_id', 0);
 				<?php echo $this->loadTemplate('ftp');?>
 			<?php endif; ?>
 
-			<table class="table table-striped">
+			<table class="table table-bordered">
 				<thead>
 					<tr>
 						<th width="20">

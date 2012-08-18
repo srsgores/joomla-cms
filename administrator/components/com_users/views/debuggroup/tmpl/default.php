@@ -69,7 +69,7 @@ $listDirn	= $this->escape($this->state->get('list.direction'));
 				</div>
 			</div>
 			<div class="clearfix"> </div>
-			<table class="table table-striped">
+			<table class="table table-bordered">
 				<thead>
 					<tr>
 						<th class="left">

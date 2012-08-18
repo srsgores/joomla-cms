@@ -94,7 +94,7 @@ $sortFields = $this->getSortFields();
 				</div>
 			</div>
 			<div class="clearfix"> </div>
-			<table class="table table-striped">
+			<table class="table table-bordered">
 				<thead>
 					<tr>
 						<th width="1%" class="hidden-phone">

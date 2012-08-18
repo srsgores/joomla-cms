@@ -51,7 +51,7 @@ $canDo		= SearchHelper::getActions();
 		<span class="disabled"><?php echo JText::_('COM_SEARCH_LOGGING_DISABLED'); ?></span>
 	</div>
 	<?php endif; ?>
-	<table class="table table-striped">
+	<table class="table table-bordered">
 		<thead>
 			<tr>
 				<th width="20">

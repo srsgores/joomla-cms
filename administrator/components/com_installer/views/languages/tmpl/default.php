@@ -38,7 +38,7 @@ $listDirn  = $this->escape($this->state->get('list.direction'));
 		<div class="span10">
 			<?php if (count($this->items) || $this->escape($this->state->get('filter.search'))) : ?>
 				<?php echo $this->loadTemplate('filter'); ?>
-				<table class="table table-striped">
+				<table class="table table-bordered">
 					<thead>
 						<tr>
 							<th width="20" class="hidden-phone">

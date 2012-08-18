@@ -76,7 +76,7 @@ JText::script('COM_USERS_GROUPS_CONFIRM_DELETE');
 			</div>
 			<div class="clearfix"> </div>
 
-			<table class="table table-striped">
+			<table class="table table-bordered">
 				<thead>
 					<tr>
 						<th width="1%">

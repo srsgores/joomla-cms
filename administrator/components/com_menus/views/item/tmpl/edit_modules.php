@@ -11,7 +11,7 @@ defined('_JEXEC') or die;
 
 JHtml::_('behavior.framework', true);
 ?>
-	<table class="table table-striped">
+	<table class="table table-bordered">
 		<thead>
 		<tr>
 			<th class="left">

@@ -73,7 +73,7 @@ $loggeduser = JFactory::getUser();
 				</div>
 			</div>
 			<div class="clearfix"> </div>
-			<table class="table table-striped">
+			<table class="table table-bordered">
 				<thead>
 					<tr>
 						<th width="1%">

@@ -68,7 +68,7 @@ $canEdit = $user->authorise('core.edit', 'com_users');
 				<div class="clearfix"> </div>
 			</div>
 
-			<table class="table table-striped">
+			<table class="table table-bordered">
 				<thead>
 					<tr>
 						<th width="1%">
